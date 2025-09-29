@@ -53,8 +53,10 @@ UML Diagram 1: As a hiker, I want to download offline trail maps with elevation 
 
 *This activity diagram illustrates the complete user flow for downloading offline trail maps in the TrailBuddy app. The process begins when a hiker opens the app and navigates to the map page, where they can select their desired trail and request a download. The diagram shows the decision point for download success, with error handling that allows users to retry failed downloads. Upon successful download, the system fetches trail data including elevation and difficulty ratings, then stores this information for offline use, ensuring hikers can navigate safely even without cellular service.*
 
+## Wireframe Diagrams
+
 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Clickable Prototype](https://www.figma.com/proto/WUatCc0R5kj8yIqqZ7ISta/please_join-figma?node-id=120-723&p=f&t=nPdsNznPTUXjmN8E-1&scaling=scale-down&content-scaling=fixed&page-id=106%3A184&starting-point-node-id=120%3A723)
